@@ -6,12 +6,10 @@
 
 <h3 align="center">Kolli Sudeepa</h3>
 
-<link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <ul class="list-unstyled list-social">
 
-   <li><a href="https://www.linkedin.com/in/sudeepanoble/"><i class="ion-social-linkedin"></i></a></li>
-   <li><a href="https://github.com/SudeepaNoble"><i class="ion-social-github"></i></a></li>
-   <li><a href="https://twitter.com/i_sudeepa"><i class="ion-social-twitter"></i></a></li>
-   <li><a href="https://www.instagram.com/i_noble.sudeepa/"><i class="ion-social-instagram"></i></a></li>
-   <li><a href="https://www.facebook.com/sudeepa.kolli"><i class="ion-social-facebook"></i></a></li>
+   <li><a href="https://www.linkedin.com/in/sudeepanoble/" <img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="img"</a></li>
+   <li><a href="https://github.com/SudeepaNoble"<img src="https://www.flaticon.com/free-icon/github_2111432?term=github&page=1&position=2" alt="img"</a></li>
+   <li><a href="https://twitter.com/i_sudeepa" <img src="https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=3" alt="img"</a></li>
+   <li><a href="https://www.instagram.com/i_noble.sudeepa/" <img src="https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=3" alt="img" </a></li>
  </ul>
